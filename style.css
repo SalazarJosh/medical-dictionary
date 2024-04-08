@@ -85,13 +85,13 @@ header,footer{
 header{
   top:0;
   background-color: #00274C;
-  border-bottom: 4px solid #FECB05;
+  border-bottom: 4px solid #FFCB05;
 }
 footer{
   bottom:0;
   padding: 1em auto;
   background-color: #00274C;
-  border-top: 4px solid #fecb05;
+  border-top: 4px solid #FFCB05;
   color: #fff;
   text-align:left;
 }
@@ -304,7 +304,7 @@ button[class*="none"]{
   margin-top: .8em;
   padding: .5em .8em;
   border-radius: 1.2em;
-  border: 1.5px solid #FECB05;
+  border: 1.5px solid #00274C;
   background-color: white;
   z-index: 999;
 }
@@ -388,8 +388,8 @@ button[class*="none"]{
 ////    BrowseField    ////
 ////////////////////////*/
 
-.BrowseFeild{
-  margin-top: .8em;
+.browseField{
+  margin-top: 1rem;
 }
 
 /*//////////////////////////
@@ -554,7 +554,7 @@ svg{
   background-color: transparent;
 }
 
-.search-icon{fill: #FECB05;}
+.search-icon{fill: #00274C;}
 
 .regular-icon{
   fill: #aaa;
